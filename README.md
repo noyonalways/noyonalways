@@ -3,7 +3,7 @@
 Front-end Web Developer
 </p>
 
-Hello there, my name is Md Noyon Rahman. I am a front-end web designer. I am learning to work in this sector last two years. So, I have now good knowledge of web designing. I am also doing a little bit of graphic designing. I am a self-learner. I acquiring knowledge of web designing by myself. My goal is to become a good web designer. And my work is to make good websites for you. so that you can be benefited.
+Hello there, my name is Md Noyon Rahman. I am a front-end web Developer. I am learning to work in this sector last two years. So, I have now good knowledge of web designing. I am also doing a little bit of graphic designing. I am a self-learner. I acquiring knowledge of web designing by myself. My goal is to become a good web designer. And my work is to make good websites for you. so that you can be benefited.
 
 ### Skills: 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40px" height="40px"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
