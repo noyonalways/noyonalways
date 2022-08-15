@@ -101,8 +101,7 @@
                     src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
                     align="center"
                 />
-            </a></div>  
+            </a>
+</div>  
 
- 
 
-----
