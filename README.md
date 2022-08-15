@@ -21,8 +21,6 @@
   
 
 
-<br/>  
-
 
 ## About me
 <p style="font-size:16px;">I am Worked as a Front-End Developer with around 1 year of experience. Extensively worked developing Responsive Web Applications. Experience in developing web pages effectively using HTML5, CSS3 and JavaScript.
