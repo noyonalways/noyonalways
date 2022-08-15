@@ -7,7 +7,7 @@
 
 ### <div align="center">Junior Web Developer</div>  
   
-<br/>
+
 
 - 🔭 I’m currently working on [Creative Agency Mini](https://creative-agency-mini.web.app/)  
   
@@ -25,7 +25,8 @@
 
 
 ## About me
-<p style="font-size:16px;">I am Worked as a Front-End Developer with around 1 year of experience. Extensively worked developing Responsive Web Applications. Experience in developing web pages effectively using HTML5, CSS3 and JavaScript.</p>
+<p style="font-size:16px;">I am Worked as a Front-End Developer with around 1 year of experience. Extensively worked developing Responsive Web Applications. Experience in developing web pages effectively using HTML5, CSS3 and JavaScript.
+</p>
 
 
 ## Languages and Tools  
@@ -109,4 +110,3 @@
 <br />
 
 ----
-
