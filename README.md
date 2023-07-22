@@ -1,53 +1,43 @@
-<div align="center">
-<img src="https://i.ibb.co/kG0Q5yg/noyon-rahman-github-cover.png" align="center" height="" width="" />
-</div>  
+### <samp>&gt; Hi there👋, I'm Noyon Rahman!
 
-  
-
-# <div align="center">Hi 👋, I'm Md Noyon Rahman</div> 
-
-### <div align="center">Junior Web Developer</div>  
-  
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=noyonalways&data=followers,repositories,stars,commits)
 
 
-- 🔭 I’m currently working on [Codee Blog](https://blog-site-web.vercel.app/)
-  
+<img align="right" alt="GIF" style="border-radius: 10px" src="./assets/coding.gif" width="320"   />
 
-- 🌱 I’m currently learning Python From [Programming Hero](https://www.programming-hero.com)  
-  
+### I'm a JavaScript Lover 😍 & Python Fan 🐍
+- 🔭 I’m currently working as a Junior Web Developers.
+- 👨‍💻 My portfolio website [https://noyonrahman.xyz](https://noyonrahman.xyz)
+- ⚙️ I use daily: `.js`, `.ts`, `.py`, `.git`
+- 🥅 Goals: Learn `AWS`, `Docker`, `Micro Service`, `React Native`, `Android Apps`
+- ⚡ Fun fact: I love coding and watching movies, Traveling.
+- 💬 Ask me about JavaScript or any tech related stuff.
+- 📫 How to reach me =>  noyonrahman2003@gmail.com@gmail.com
+- 📌 Checkout my [Resume](https://drive.google.com/u/0/uc?id=1uPpZ0Ma0ovSiK3ZQvYJVd_iN4ggWRD6F&export=download).
 
-- 👯 I’m looking to collaborate to [Twins Coder BD](https://github.com/twinscoderbd)  
-  
-- ⚡ Fun fact: Photography, Photo Edit, Video Editing  
-  
+<br/>
 
-
-
-## About me
-<p style="font-size:16px;">I am Worked as a Front-End Developer with around 1 year of experience. Extensively worked developing Responsive Web Applications. Experience in developing web pages effectively using HTML5, CSS3 and JavaScript.
+### About me
+<p style="font-size:16px;">I am Worked as a Junior Web Developer with around 1 year of experience. Extensively worked developing Responsive Web Applications. Experience in developing web pages effectively using HTML5, CSS3 and JavaScript.
 </p>
 
 
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="Tailwindcss" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>   
 
-<br/>  
+<div align="center"> 
+
+### 🤷‍♂️ Prayers (🤲) — Eat (🍕) — Code (🧑‍💻) — Sleep (🛌) — Repeat (🔁)
+
+</div>
 
 
-## Connect with me  
+### Language and tools
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,react,nextjs,express,vite,vscode,git,github,tailwind,md,bash,vercel,mongodb,figma)
+
+
+
+### Connect with me  
+
 <div align="center">
 <a href="https://twitter.com/noyonalways" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -87,7 +77,7 @@
 
 <br/> 
 
-## Support Me 
+### Support Me 
 
  
 
