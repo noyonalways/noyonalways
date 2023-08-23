@@ -3,7 +3,7 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=noyonalways&data=followers,repositories,stars,commits)
 
 
-<img align="right" alt="GIF" style="border-radius: 10px" src="./assets/coding.gif" width="320"   />
+<img align="right" alt="Coding animation GIF" style="border-radius: 10px" src="./assets/coding.gif" width="320"   />
 
 ### I'm a JavaScript Lover 😍 & Python Fan 🐍
 - 🔭 I’m currently working as a Junior Web Developers.
@@ -12,7 +12,7 @@
 - 🥅 Goals: Learn `AWS`, `Docker`, `Micro Service`, `React Native`, `Android Apps`
 - ⚡ Fun fact: I love coding and watching movies, Traveling.
 - 💬 Ask me about JavaScript or any tech related stuff.
-- 📫 How to reach me =>  noyonrahman2003@gmail.com@gmail.com
+- 📫 How to reach me =>  noyonrahman2003@gmail.com
 - 📌 Checkout my [Resume](https://drive.google.com/u/0/uc?id=1uPpZ0Ma0ovSiK3ZQvYJVd_iN4ggWRD6F&export=download).
 
 <br/>
@@ -32,7 +32,7 @@
 
 ### Language and tools
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,react,nextjs,express,vite,vscode,git,github,tailwind,md,bash,vercel,mongodb,figma)
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,react,nextjs,express,vite,vscode,git,github,tailwind,bootstrap,md,bash,vercel,netlify,postman,mongodb,figma)
 
 
 
@@ -79,7 +79,7 @@
 
 ### Support Me 
 
- 
+
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/codernoyon" target="_blank" style="display: inline-block;">
