@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Junior Web Developer.
 - 👨‍💻 My portfolio website [https://noyonrahman.xyz](https://noyonrahman.xyz)
 - ⚙️ I use daily: `.js`, `.ts`, `.py`, `.git`
-- 🥅 Goals: Learn `AWS`, `Docker`, `Micro Service`, `React Native`, And `Android Apps`
+- 🥅 Goals: Learn `AWS`, `Docker`, `Micro Service`, `React Native`, and `Android Apps`
 - ⚡ Fun fact: I love coding watching movies and traveling.
 - 💬 Ask me about JavaScript or any tech-related stuff.
 - 📫 How to reach me =>  noyonrahman2003@gmail.com
