@@ -12,7 +12,7 @@
 - 🥅 Goals: Learn `AWS`, `Docker`, `Micro Service`, `React Native`, and `Android Apps`
 - ⚡ Fun fact: I love coding watching movies and traveling.
 - 💬 Ask me about JavaScript or any tech-related stuff.
-- 📫 How to reach me =>  noyonrahman2003@gmail.com
+- 📫 How to reach me =>  [noyonrahman2003@gmail.com](mailto:noyonrahman2003+github@gmail.com)
 - 📌 Checkout my [Resume](https://drive.google.com/u/0/uc?id=1uPpZ0Ma0ovSiK3ZQvYJVd_iN4ggWRD6F&export=download)
 
 
