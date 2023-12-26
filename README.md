@@ -3,7 +3,7 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=noyonalways&data=followers,repositories,stars,commits)
 
 
-<img align="right" alt="Coding animation GIF" style="border-radius: 10px" src="./assets/coding.gif" width="320"   />
+<img align="right" alt="Coding animation GIF" style="border-radius: 10px" src="./assets/programmer.gif" width="320"/>
 
 ### I'm a JavaScript Lover 😍 & Python Fan 🐍
 - 🔭 I’m currently working as a Junior Web Developer.
@@ -14,6 +14,7 @@
 - 💬 Ask me about JavaScript or any tech-related stuff.
 - 📫 How to reach me =>  noyonrahman2003@gmail.com
 - 📌 Checkout my [Resume](https://drive.google.com/u/0/uc?id=1uPpZ0Ma0ovSiK3ZQvYJVd_iN4ggWRD6F&export=download)
+
 
 <br/>
 
@@ -32,7 +33,7 @@
 
 ### Language and tools
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,py,react,nextjs,express,vite,vscode,git,github,tailwind,bootstrap,md,bash,vercel,netlify,postman,mongodb,figma)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,react,nextjs,express,tailwind,bootstrap,md,vite,mongodb,vscode,git,github,bash,powershell,linux,docker,netlify,vercel,postman,figma)
 
 
 
