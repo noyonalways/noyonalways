@@ -1,6 +1,6 @@
 ### <samp>&gt; Hi there👋, I'm Noyon Rahman!
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=noyonalways&data=followers,repositories,stars,commits)
+<img width='100%' src='https://github-widgetbox.vercel.app/api/profile?username=noyonalways&data=followers,repositories,stars,commits' alt='banner-image'>
 
 <img align="right" alt="Coding animation GIF" style="border-radius: 10px" src="./assets/programmer.gif" width="320"/>
 
