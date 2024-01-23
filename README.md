@@ -19,7 +19,7 @@
 
 ### About me
 
-<p style="font-size:16px; text-align: center;">I have Worked as a Junior Web Developer with around 1 year of experience. Extensively worked developing Responsive Web Applications. Experience in developing web pages effectively using HTML5, CSS3, and JavaScript.
+<p align='center' style="font-size:16px;">I have Worked as a Junior Web Developer with around 1 year of experience. Extensively worked developing Responsive Web Applications. Experience in developing web pages effectively using HTML5, CSS3, and JavaScript.
 </p>
 
  <h3 align='center'>🤷‍♂️ Prayers (🤲) — Eat (🍕) — Code (🧑‍💻) — Sleep (🛌) — Repeat (🔁)</h3>
