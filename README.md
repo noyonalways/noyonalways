@@ -1,8 +1,10 @@
 ### <samp>&gt; Hi there👋, I'm Noyon Rahman!
 
-<img width='100%' src='https://github-widgetbox.vercel.app/api/profile?username=noyonalways&data=followers,repositories,stars,commits' alt='banner-image'>
+<!-- <img width='100%' src='https://github-widgetbox.vercel.app/api/profile?username=noyonalways&data=followers,repositories,stars,commits' alt='banner-image'> -->
 
-<img align="right" alt="Coding animation GIF" style="border-radius: 10px" src="./assets/laptop.gif" width="320"/>
+<img style='margin-bottom: 15px; border-radius: 5px' width='100%' src='https://i.postimg.cc/FsPTY97D/noyon-rahman-facebook-cover.png' alt='banner-image'>
+
+<img align="right" alt="Coding animation GIF" style="border-radius: 5px" src="./assets/laptop.gif" width="320"/>
 
 ### I'm a JavaScript Lover 😍 & Python Fan 🐍
 
@@ -22,7 +24,7 @@
 <p align='center' style="font-size:16px;">I have Worked as a Junior Web Developer with around 1 year of experience. Extensively worked developing Responsive Web Applications. Experience in developing web pages effectively using HTML5, CSS3, and JavaScript.
 </p>
 
- <h3 align='center'>🤷‍♂️ Prayers (🤲) — Eat (🍕) — Code (🧑‍💻) — Sleep (🛌) — Repeat (🔁)</h3>
+<h3 align='center'>🤷‍♂️ Prayers (🤲) — Eat (🍕) — Code (🧑‍💻) — Sleep (🛌) — Repeat (🔁)</h3>
 
 <br />
 
