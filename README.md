@@ -30,7 +30,7 @@
 
 ### Language and tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,react,nextjs,express,tailwind,bootstrap,md,vite,mongodb,vscode,git,github,bash,powershell,linux,docker,netlify,vercel,postman,figma)
+<img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,react,nextjs,express,tailwind,bootstrap,md,vite,mongodb,vscode,git,github,bash,powershell,linux,docker,netlify,vercel,postman,figma" alt="my-skills" >
 
 ### Connect with me
 
