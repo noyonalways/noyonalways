@@ -4,7 +4,11 @@
 
 <img style='margin-bottom: 15px; border-radius: 5px' width='100%' src='https://i.postimg.cc/FsPTY97D/noyon-rahman-facebook-cover.png' alt='banner-image'>
 
-<img align="right" alt="Coding animation GIF" style="border-radius: 5px" src="./assets/laptop.gif" width="320"/>
+<!-- <a href="https://gitroll.io/profile/u3oTwqSnz7mekcl3MZOiYF4GBb7r1" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/u3oTwqSnz7mekcl3MZOiYF4GBb7r1" alt="GitRoll Profile Badge"/>
+</a> -->
+
+<!-- <img align="right" alt="Coding animation GIF" style="border-radius: 5px" src="./assets/laptop.gif" width="320"/> -->
 
 ### I'm a JavaScript Lover 😍 & Python Fan 🐍
 
@@ -21,7 +25,7 @@
 
 ### About me
 
-<p align='center' style="font-size:16px;">I have Worked as a Junior Web Developer with around 1 year of experience. Extensively worked developing Responsive Web Applications. Experience in developing web pages effectively using HTML5, CSS3, and JavaScript.
+<p align='center' style="font-size:16px;">I'm Noyon Rahman, a web developer with a passion for creating beautiful, functional websites.
 </p>
 
 <h3 align='center'>🤷‍♂️ Prayers (🤲) — Eat (🍕) — Code (🧑‍💻) — Sleep (🛌) — Repeat (🔁)</h3>
@@ -30,7 +34,7 @@
 
 ### Language and tools
 
-<img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,react,nextjs,express,tailwind,bootstrap,md,vite,mongodb,vscode,git,github,bash,powershell,linux,docker,netlify,vercel,postman,figma" alt="my-skills" >
+<img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,react,nextjs,express,tailwind,bootstrap,md,vite,mongodb,vscode,git,github,bash,powershell,linux,docker,netlify,vercel,postman,figma," alt="my-skills" >
 
 ### Connect with me
 
