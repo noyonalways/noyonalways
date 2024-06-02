@@ -2,7 +2,7 @@
 
 <!-- <img width='100%' src='https://github-widgetbox.vercel.app/api/profile?username=noyonalways&data=followers,repositories,stars,commits' alt='banner-image'> -->
 
-<img style='margin-bottom: 15px; border-radius: 5px' width='100%' src='https://i.postimg.cc/FsPTY97D/noyon-rahman-facebook-cover.png' alt='banner-image'>
+<img style='margin-bottom: 15px; border-radius: 5px' width='100%' src='https://i.ibb.co/XZWn0Rf/noyon-rahman-facebook-cover.png' alt='banner-image'>
 
 <!-- <a href="https://gitroll.io/profile/u3oTwqSnz7mekcl3MZOiYF4GBb7r1" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/u3oTwqSnz7mekcl3MZOiYF4GBb7r1" alt="GitRoll Profile Badge"/>
