@@ -45,7 +45,7 @@
 | 🎨 **CodeVibe Themes**  | Bring your Visual Studio Code to life with vibrant and aesthetic themes.         | [Explore on VS Code Marketplace ➡️](https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes) |
 | ✨ **The Magic Readme** | A handy tool to generate professional README files for your GitHub repositories. | [Check it out on NPM ➡️](https://www.npmjs.com/package/the-magic-readme)                                             |
 
-### Latest Blog Posts 👇
+### Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
