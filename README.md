@@ -48,6 +48,11 @@
 ### Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
+- [Understanding the Single Responsibility Principle (SRP) for Beginners](https://blog.noyonrahman.xyz/understanding-the-single-responsibility-principle-srp-for-beginners)
+- [Interface, Type Vs Interface in TypeScript](https://blog.noyonrahman.xyz/interface-type-vs-interface-in-typescript)
+- [What’s the difference between never and void in TypeScript?](https://blog.noyonrahman.xyz/what-is-the-difference-between-never-and-void-in-typescript)
+- [Back-end Development & Back-end Developers Responsibilities.](https://blog.noyonrahman.xyz/back-end-development-back-end-developers-responsibilities)
+
 <!-- HASHNODE_BLOG:END -->
 
 ### Connect with me
