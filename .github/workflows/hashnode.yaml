@@ -3,7 +3,7 @@ name: "📚 Latest Blog"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *" # Runs Every 24 Hours
+    - cron: "0 */24 * * *" # Runs Every 24 Hours
 
 jobs:
   update_blogs:
@@ -19,6 +19,6 @@ jobs:
           USERNAME: "noyonalways" # Hashnode Username
           COUNT: 4 # MAX Visisble
           STYLE: "blog-left"
-          BLOG_URL: "https://blog.noyonrahman.xyz"
+          BLOG_URL: "https://blog.noyonrahman.xyz/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
