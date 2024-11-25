@@ -2,7 +2,7 @@
 
 <!-- <img width='100%' src='https://github-widgetbox.vercel.app/api/profile?username=noyonalways&data=followers,repositories,stars,commits' alt='banner-image'> -->
 
-<img style='margin-bottom: 15px; border-radius: 5px' width='100%' src='https://i.ibb.co/84ncVZw/noyon-rahman-facebook-cover.png' alt='banner-image'>
+<img style='margin-bottom: 15px; border-radius: 5px' width='100%' src='./assets/cover-image.png' alt='cover-image'>
 
 <!-- <a href="https://gitroll.io/profile/u3oTwqSnz7mekcl3MZOiYF4GBb7r1" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/u3oTwqSnz7mekcl3MZOiYF4GBb7r1" alt="GitRoll Profile Badge"/>
@@ -13,19 +13,19 @@
 ### I'm a JavaScript Lover 😍 & Python Fan 🐍
 
 - 🔭 I’m currently working as a Junior Web Developer.
-- 👨‍💻 My portfolio website [Live Preview](https://portfolio-noyonalways.vercel.app/)
+- 👨‍💻 My portfolio website [Live Preview](https://noyonrahman.xyz)
 - ⚙️ I use daily: `.js`, `.ts`, `.py`, `.git`
 - 🥅 Goals: Learn `AWS`, `Docker`, `Micro Service`, `React Native`, and `Android Apps`
 - ⚡ Fun fact: I love coding watching movies and traveling.
 - 💬 Ask me about JavaScript or any tech-related stuff.
 - 📫 How to reach me => [noyonrahman2003@gmail.com](mailto:noyonrahman2003+github@gmail.com)
-- 📌 Checkout my [Resume](https://drive.google.com/u/0/uc?id=1uPpZ0Ma0ovSiK3ZQvYJVd_iN4ggWRD6F&export=download)
+- 📌 Checkout my [Resume](https://drive.google.com/file/d/1S4oDpUJGjgftaStzTedI_H85tgGEtMMp/view)
 
 <br/>
 
 ### About me
 
-<p align='center' style="font-size:16px;">I'm Noyon Rahman, a web developer with a passion for creating beautiful, functional websites.
+<p align='center' style="font-size:16px;">I’m 𝗡𝗼𝘆𝗼𝗻 𝗥𝗮𝗵𝗺𝗮𝗻, a passionate Full-Stack Developer specializing in building responsive and dynamic web applications. With expertise in 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗥𝗲𝗱𝘂𝘅-𝗧𝗼𝗼𝗹𝗸𝗶𝘁, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗠𝗼𝗻𝗴𝗼𝗼𝘀𝗲, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦, and 𝗗𝗼𝗰𝗸𝗲𝗿, I create high-performance, scalable, and user-friendly solutions for modern web platforms.
 </p>
 
 <h3 align='center'>🤷‍♂️ Prayers (🤲) — Eat (🍕) — Code (🧑‍💻) — Sleep (🛌) — Repeat (🔁)</h3>
@@ -34,7 +34,21 @@
 
 ### Language and tools
 
-<img width="100%" src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,react,nextjs,express,tailwind,bootstrap,md,vite,mongodb,vscode,git,github,bash,powershell,linux,docker,netlify,vercel,postman,figma," alt="my-skills" >
+<img width="100%" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,react,redux,nextjs,express,tailwind,bootstrap,md,vite,mongodb,vscode,git,github,npm,yarn,bash,powershell,windows,linux,docker,netlify,vercel,postman,figma,notion" alt="my-skills" >
+
+<!-- <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,nodejs,python,express,vscode,react,nextjs,mongodb,tailwindcss,bootstrap,bash,linux,windows,docker,git,powershell,vercel,postgresql&theme=dracula" alt="my-skills" /> -->
+
+### My Themes & Packages
+
+| **Name**                | **Description**                                                                  | **Link**                                                                                                             |
+| ----------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 🎨 **CodeVibe Themes**  | Bring your Visual Studio Code to life with vibrant and aesthetic themes.         | [Explore on VS Code Marketplace ➡️](https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes) |
+| ✨ **The Magic Readme** | A handy tool to generate professional README files for your GitHub repositories. | [Check it out on NPM ➡️](https://www.npmjs.com/package/the-magic-readme)                                             |
+
+### Latest Blog Posts 👇
+
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 ### Connect with me
 
@@ -45,7 +59,7 @@
   <a target="_blank" href="https://instagram.com/noyonalways">
     <img src="https://img.shields.io/badge/-noyonalways-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a target="_blank" href="https://www.linkedin.com/company/noyonalways/">
+  <a target="_blank" href="https://www.linkedin.com/in/noyonalways/">
     <img src="https://img.shields.io/badge/-noyonalways-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a target="_blank" href="mailto:noyonalways+github@gmail.com">
