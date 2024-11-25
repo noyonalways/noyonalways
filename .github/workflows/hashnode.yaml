@@ -18,6 +18,6 @@ jobs:
         with:
           HASHNODE_PUBLICATION_NAME: 'blog.noyonrahman.xyz'
           POST_COUNT: 6
-          FORMAT: 'table'
+          FORMAT: 'stacked'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
