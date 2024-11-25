@@ -48,6 +48,19 @@
 ### Latest Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://blog.noyonrahman.xyz/understanding-the-single-responsibility-principle-srp-for-beginners" title="Understanding the Single Responsibility Principle (SRP) for Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1730872154334/0f71a01d-aae9-4079-8c70-cbcd60bd2b26.jpeg" alt="Understanding the Single Responsibility Principle (SRP) for Beginners" width="300px" align="left" /></a><a href="https://blog.noyonrahman.xyz/understanding-the-single-responsibility-principle-srp-for-beginners" title="Understanding the Single Responsibility Principle (SRP) for Beginners"><strong>Understanding the Single Responsibility Principle (SRP) for Beginners</strong></a><div><strong>November 6, 2024</strong></div><br/>One of the simplest ways to make your code easier to read, test, and maintain is by following the Single Responsibility Principle (SRP). SRP is a core part of the SOLID principles in software design a...</p><br/><br/>
+
+<p align="left"><a href="https://blog.noyonrahman.xyz/interface-type-vs-interface-in-typescript" title="Interface, Type Vs Interface in TypeScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715090845019/d893cf0f-fe29-4b2d-88cd-f750df18c4fe.png" alt="Interface, Type Vs Interface in TypeScript" width="300px" align="left" /></a><a href="https://blog.noyonrahman.xyz/interface-type-vs-interface-in-typescript" title="Interface, Type Vs Interface in TypeScript"><strong>Interface, Type Vs Interface in TypeScript</strong></a><div><strong>May 7, 2024</strong></div><br/>In TypeScript, both types and interfaces serve a similar purpose: they allow you to define the shape of data. However, there are some differences between them.
+Type:
+A type in TypeScript is like a lab...</p><br/><br/>
+
+<p align="left"><a href="https://blog.noyonrahman.xyz/what-is-the-difference-between-never-and-void-in-typescript" title="What’s the difference between never and void in TypeScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1714622461856/41e393f4-e63d-4112-b462-6b62f28d1e92.png" alt="What’s the difference between never and void in TypeScript?" width="300px" align="left" /></a><a href="https://blog.noyonrahman.xyz/what-is-the-difference-between-never-and-void-in-typescript" title="What’s the difference between never and void in TypeScript?"><strong>What’s the difference between never and void in TypeScript?</strong></a><div><strong>May 2, 2024</strong></div><br/>In TypeScript, both never and void represent situations where a function doesn't return anything, but they're used in different contexts.
+void: Think of void as the absence of a specific type. When a ...</p><br/><br/>
+
+<p align="left"><a href="https://blog.noyonrahman.xyz/back-end-development-back-end-developers-responsibilities" title="Back-end Development & Back-end Developers Responsibilities."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702040081443/c2ad2290-4dbe-431a-9911-721f93fdecf5.jpeg" alt="Back-end Development & Back-end Developers Responsibilities." width="300px" align="left" /></a><a href="https://blog.noyonrahman.xyz/back-end-development-back-end-developers-responsibilities" title="Back-end Development & Back-end Developers Responsibilities."><strong>Back-end Development & Back-end Developers Responsibilities.</strong></a><div><strong>December 8, 2023</strong></div><br/>What is Back-end Development?
+Backend development refers to the process of creating and maintaining the server side of a web application or software, which focuses on everything we can’t see on a webs...</p><br/><br/>
+
+
 <!-- HASHNODE_BLOG:END -->
 
 ### Connect with me
