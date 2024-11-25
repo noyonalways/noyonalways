@@ -1,4 +1,4 @@
-name: "📚 Blog Updater"
+name: 'Hashnode Blogs'
 
 on:
   workflow_dispatch:
@@ -7,18 +7,17 @@ on:
 
 jobs:
   update_blogs:
-    name: "Update Blogs"
+    name: 'Hashnode Latest Blogs'
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
+      - name: 'Fetch Repository Contents'
         uses: actions/checkout@main
 
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - name: 'Hashnode Blog Action'
+        uses: 'Sachin-chaurasiya/hashnode-blog-action@main'
         with:
-          USERNAME: 'noyonalways' # Hashnode Username
-          BLOG_URL: 'https://blog.noyonrahman.xyz/' # Blog URL
-          COUNT: 4 # MAX Visisble
-          STYLE: blog-grid
+          HASHNODE_PUBLICATION_NAME: 'blog.noyonrahman.xyz'
+          POST_COUNT: 6
+          FORMAT: 'list'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
