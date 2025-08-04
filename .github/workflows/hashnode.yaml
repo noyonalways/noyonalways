@@ -16,7 +16,7 @@ jobs:
       - name: "Hashnode Blog Action"
         uses: "Sachin-chaurasiya/hashnode-blog-action@main"
         with:
-          HASHNODE_PUBLICATION_NAME: "blog.noyonrahman.xyz"
+          HASHNODE_PUBLICATION_NAME: "noyonrahman.hashnode.dev"
           POST_COUNT: 6
           FORMAT: "stacked"
         env:
