@@ -14,8 +14,8 @@
 
 - 🔭 I’m currently working as a Web Developer.
 - 👨‍💻 My portfolio website [noyonrahman.com](https://noyonrahman.com)
-- ⚙️ I use daily: `.js`, `.ts`, `.py`, `sql`, `.git`
-- 🥅 Goals: Learn `AWS`, `Docker`, `Micro Service`, `React Native`, and `Android Apps`
+- ⚙️ I use daily: `.js`, `.ts`, `.py`, `.sql`, `.git`
+- 🥅 Goals: Learn `AWS`, `Docker`, `DevOps`, `Micro Service`, `React Native`, and `Android Apps`
 - ⚡ Fun fact: I love coding, watching movies, and traveling.
 - 💬 Ask me about JavaScript or any tech-related stuff.
 - 📫 How to reach me => [contact@noyonrahman.com](mailto:contact@noyonrahman.com)
