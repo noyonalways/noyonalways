@@ -12,20 +12,20 @@
 
 ### I'm a JavaScript Lover 😍 & Python Fan 🐍
 
-- 🔭 I’m currently working as a Junior Web Developer.
-- 👨‍💻 My portfolio website [Live Preview](https://noyonrahman.xyz)
-- ⚙️ I use daily: `.js`, `.ts`, `.py`, `.git`
+- 🔭 I’m currently working as a Web Developer.
+- 👨‍💻 My portfolio website [noyonrahman.com](https://noyonrahman.com)
+- ⚙️ I use daily: `.js`, `.ts`, `.py`, `sql`, `.git`
 - 🥅 Goals: Learn `AWS`, `Docker`, `Micro Service`, `React Native`, and `Android Apps`
-- ⚡ Fun fact: I love coding watching movies and traveling.
+- ⚡ Fun fact: I love coding, watching movies, and traveling.
 - 💬 Ask me about JavaScript or any tech-related stuff.
-- 📫 How to reach me => [noyonrahman2003@gmail.com](mailto:noyonrahman2003+github@gmail.com)
+- 📫 How to reach me => [contact@noyonrahman.com](mailto:contact@noyonrahman.com)
 - 📌 Checkout my [Resume](https://drive.google.com/file/d/1S4oDpUJGjgftaStzTedI_H85tgGEtMMp/view)
 
 <br/>
 
 ### About me
 
-<p align='center' style="font-size:16px;">I’m 𝗡𝗼𝘆𝗼𝗻 𝗥𝗮𝗵𝗺𝗮𝗻, a passionate Full-Stack Developer specializing in building responsive and dynamic web applications. With expertise in 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗥𝗲𝗱𝘂𝘅-𝗧𝗼𝗼𝗹𝗸𝗶𝘁, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗠𝗼𝗻𝗴𝗼𝗼𝘀𝗲, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦, and 𝗗𝗼𝗰𝗸𝗲𝗿, I create high-performance, scalable, and user-friendly solutions for modern web platforms.
+<p align='center' style="font-size:16px;">I'm Noyon Rahman — a software developer based in Dhaka, Bangladesh. I focus on backend development and API integration, designing and maintaining scalable APIs and integrating third-party services. I also contribute to frontend features when the team needs an extra pair of hands.
 </p>
 
 <h3 align='center'>🤷‍♂️ Prayers (🤲) — Eat (🍕) — Code (🧑‍💻) — Sleep (🛌) — Repeat (🔁)</h3>
