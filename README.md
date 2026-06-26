@@ -73,10 +73,10 @@ Backend development refers to the process of creating and maintaining the server
     <img src="https://img.shields.io/badge/-noyonalways-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/noyonalways/">
-    <img src="https://img.shields.io/badge/-noyonalways-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/-noyonalways-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a target="_blank" href="mailto:noyonalways+github@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
+  <a target="_blank" href="mailto:hello@noyonrahman.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
   <a target="_blank" href="https://www.behance.net/noyonalways">
     <img src="https://img.shields.io/badge/-noyonalways-gray?style=flat-square&logo=Behance&logoColor=white" alt="YouTube Badge">
@@ -84,7 +84,7 @@ Backend development refers to the process of creating and maintaining the server
   <a target="_blank" href="https://dev.to/noyonalways">
     <img src="https://img.shields.io/badge/-noyonalways-black?style=flat-square&logo=dev.to&logoColor=white" alt="YouTube Badge">
   </a>
-  <a target="_blank" href="https://youtube.com/@deskofnoyon">
+  <a target="_blank" href="https://youtube.com/@noyonalways">
     <img src="https://img.shields.io/badge/-deskofnoyon-CD201F?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge">
   </a>
 </div>
