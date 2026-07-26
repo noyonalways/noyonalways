@@ -2,7 +2,7 @@
 
 <!-- <img width='100%' src='https://github-widgetbox.vercel.app/api/profile?username=noyonalways&data=followers,repositories,stars,commits' alt='banner-image'> -->
 
-<img style='margin-bottom: 15px; border-radius: 5px' width='100%' src='./assets/cover-image.png' alt='cover-image'>
+<img style='margin-bottom: 15px; border-radius: 5px' width='100%' src='https://cdn.noyonrahman.com/uploads/Covers/Cover.png' alt='cover-image'>
 
 <!-- <a href="https://gitroll.io/profile/u3oTwqSnz7mekcl3MZOiYF4GBb7r1" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/u3oTwqSnz7mekcl3MZOiYF4GBb7r1" alt="GitRoll Profile Badge"/>
@@ -25,7 +25,9 @@
 
 ### About me
 
-<p align='center' style="font-size:16px;">I'm Noyon Rahman — a software developer based in Dhaka, Bangladesh. I focus on backend development and API integration, designing and maintaining scalable APIs and integrating third-party services. I also contribute to frontend features when the team needs an extra pair of hands.
+<p align='left' style="font-size:16px;">I'm Noyon Rahman — a software developer based in Dhaka. My focus is backend development and API integration — designing scalable REST APIs, integrating third-party services like Stripe and Cloudinary, and ensuring data flows cleanly between the frontend and backend. I also contribute to UI features when the team needs an extra hand.
+
+My day-to-day is Node.js, Express, TypeScript, and MongoDB with Mongoose. I'm a believer in strict validation at the route boundary, consistent error envelopes, and schemas that work hard so the rest of the code doesn't have to.
 </p>
 
 <h3 align='center'>🤷‍♂️ Prayers (🤲) — Eat (🍕) — Code (🧑‍💻) — Sleep (🛌) — Repeat (🔁)</h3>
@@ -44,24 +46,6 @@
 | ----------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 🎨 **CodeVibe Themes**  | Bring your Visual Studio Code to life with vibrant and aesthetic themes.         | [Explore on VS Code Marketplace ➡️](https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes) |
 | ✨ **The Magic Readme** | A handy tool to generate professional README files for your GitHub repositories. | [Check it out on NPM ➡️](https://www.npmjs.com/package/the-magic-readme)                                             |
-
-### Latest Blog Posts
-
-<!-- HASHNODE_BLOG:START -->
-<p align="left"><a href="https://noyonrahman.hashnode.dev/understanding-the-single-responsibility-principle-srp-for-beginners" title="Understanding the Single Responsibility Principle (SRP) for Beginners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1730872154334/0f71a01d-aae9-4079-8c70-cbcd60bd2b26.jpeg" alt="Understanding the Single Responsibility Principle (SRP) for Beginners" width="300px" align="left" /></a><a href="https://noyonrahman.hashnode.dev/understanding-the-single-responsibility-principle-srp-for-beginners" title="Understanding the Single Responsibility Principle (SRP) for Beginners"><strong>Understanding the Single Responsibility Principle (SRP) for Beginners</strong></a><div><strong>November 6, 2024</strong></div><br/>One of the simplest ways to make your code easier to read, test, and maintain is by following the Single Responsibility Principle (SRP). SRP is a core part of the SOLID principles in software design a...</p><br/><br/>
-
-<p align="left"><a href="https://noyonrahman.hashnode.dev/interface-type-vs-interface-in-typescript" title="Interface, Type Vs Interface in TypeScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1715090845019/d893cf0f-fe29-4b2d-88cd-f750df18c4fe.png" alt="Interface, Type Vs Interface in TypeScript" width="300px" align="left" /></a><a href="https://noyonrahman.hashnode.dev/interface-type-vs-interface-in-typescript" title="Interface, Type Vs Interface in TypeScript"><strong>Interface, Type Vs Interface in TypeScript</strong></a><div><strong>May 7, 2024</strong></div><br/>In TypeScript, both types and interfaces serve a similar purpose: they allow you to define the shape of data. However, there are some differences between them.
-Type:
-A type in TypeScript is like a lab...</p><br/><br/>
-
-<p align="left"><a href="https://noyonrahman.hashnode.dev/what-is-the-difference-between-never-and-void-in-typescript" title="What’s the difference between never and void in TypeScript?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1714622461856/41e393f4-e63d-4112-b462-6b62f28d1e92.png" alt="What’s the difference between never and void in TypeScript?" width="300px" align="left" /></a><a href="https://noyonrahman.hashnode.dev/what-is-the-difference-between-never-and-void-in-typescript" title="What’s the difference between never and void in TypeScript?"><strong>What’s the difference between never and void in TypeScript?</strong></a><div><strong>May 2, 2024</strong></div><br/>In TypeScript, both never and void represent situations where a function doesn't return anything, but they're used in different contexts.
-void: Think of void as the absence of a specific type. When a ...</p><br/><br/>
-
-<p align="left"><a href="https://noyonrahman.hashnode.dev/back-end-development-back-end-developers-responsibilities" title="Back-end Development & Back-end Developers Responsibilities."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702040081443/c2ad2290-4dbe-431a-9911-721f93fdecf5.jpeg" alt="Back-end Development & Back-end Developers Responsibilities." width="300px" align="left" /></a><a href="https://noyonrahman.hashnode.dev/back-end-development-back-end-developers-responsibilities" title="Back-end Development & Back-end Developers Responsibilities."><strong>Back-end Development & Back-end Developers Responsibilities.</strong></a><div><strong>December 8, 2023</strong></div><br/>What is Back-end Development?
-Backend development refers to the process of creating and maintaining the server side of a web application or software, which focuses on everything we can’t see on a webs...</p><br/><br/>
-
-
-<!-- HASHNODE_BLOG:END -->
 
 ### Connect with me
 
