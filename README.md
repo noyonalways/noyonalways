@@ -36,7 +36,7 @@ My day-to-day is Node.js, Express, TypeScript, and MongoDB with Mongoose. I'm a 
 
 ### Language and tools
 
-<img width="100%" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,react,redux,nextjs,express,tailwind,bootstrap,md,vite,mongodb,vscode,git,github,npm,yarn,bash,powershell,windows,linux,docker,netlify,vercel,postman,figma,notion" alt="my-skills" >
+<img width="100%" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,react,redux,nextjs,express,graphql,supabase,tailwind,bootstrap,md,vite,mongodb,postgresql,prisma,vscode,cloudflare,workers,git,github,pnpm,npm,yarn,bash,powershell,windows,linux,docker,netlify,vercel,postman,figma,notion" alt="my-skills" >
 
 <!-- <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,nodejs,python,express,vscode,react,nextjs,mongodb,tailwindcss,bootstrap,bash,linux,windows,docker,git,powershell,vercel,postgresql&theme=dracula" alt="my-skills" /> -->
 
