@@ -15,7 +15,7 @@
   <a href="https://noyonrahman.com"><img src="https://img.shields.io/badge/Portfolio-noyonrahman.com-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/noyonalways/"><img src="https://img.shields.io/badge/LinkedIn-noyonalways-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hello@noyonrahman.com"><img src="https://img.shields.io/badge/Email-hello@noyonrahman.com-C14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://drive.google.com/file/d/143uDfWBSTWdEhdqgKXWWtd-_E1IwoB1v/view"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-4A4A4A?style=flat-square&logo=readdotcv&logoColor=white" alt="Résumé"></a>
+  <a href="https://drive.google.com/file/d/143uDfWBSTWdEhdqgKXWWtd-_E1IwoB1v/view"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-4A4A4A?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
 </p>
 
 ---
@@ -45,13 +45,10 @@ I worked as a **Junior Full-Stack Developer at DeveloperLook**. Before that, I w
 
 ## Selected Work
 
-| Project | Description | Stack | Links |
-| --- | --- | --- | --- |
-| **Staffic.io** | Multi-tenant platform to track time, monitor teams, and run daily operations. | Node.js · Express · MongoDB · Next.js | [Live](https://staffic.io) |
-| **Ibadah** | Offline-ready PWA for tracking daily ibadah, with AI assistance. | Next.js · Express · MongoDB | [Live](https://ibadah.noyonrahman.com) · [Source](https://github.com/noyonalways/ibadah) |
-| **Luxe Maison** | Marketing site for a luxury home decor brand. | Next.js · TypeScript · Tailwind CSS | [Live](https://luxe-maison.noyonrahman.com) |
-| **The Magic README** | Open-source CLI that generates README files for repositories. | TypeScript · Node.js | [npm](https://www.npmjs.com/package/the-magic-readme) |
-| **R2 Explorer** | File explorer for Cloudflare R2 buckets, running on the edge. | TypeScript · Cloudflare Workers | [Live](https://r2-explorer.noyonrahman.com) |
+- **Staffic.io** — Multi-tenant platform to track time, monitor teams, and run daily operations · [Live](https://staffic.io)
+- **Ibadah** — Offline-ready PWA for tracking daily ibadah, with AI assistance · [Live](https://ibadah.noyonrahman.com) · [Source](https://github.com/noyonalways/ibadah)
+- **Luxe Maison** — Marketing site for a luxury home decor brand · [Live](https://luxe-maison.noyonrahman.com)
+- **R2 Explorer** — File explorer for Cloudflare R2 buckets, running on the edge · [Live](https://r2-explorer.noyonrahman.com)
 
 More at [noyonrahman.com](https://noyonrahman.com).
 
@@ -104,22 +101,45 @@ More at [noyonrahman.com](https://noyonrahman.com).
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 
-## Open Source & Writing
+## CodeVibe Themes
 
-- **The Magic README** — CLI for generating README files · [npm](https://www.npmjs.com/package/the-magic-readme)
-- **CodeVibe Themes** — VS Code theme collection · [Marketplace](https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes)
-- Writing on backend patterns, TypeScript, and serverless · [Blog](https://noyonrahman.com/blogs) · [Dev.to](https://dev.to/noyonalways) · [Medium](https://noyonalways.medium.com)
+A theme collection for Visual Studio Code, built for long sessions and readable syntax.
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Marketplace-CodeVibe%20Themes-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="CodeVibe Themes on the VS Code Marketplace">
+  </a>
+</p>
+
+## The Magic README
+
+An open-source CLI that generates well-structured README files for repositories.
+
+```bash
+npx the-magic-readme
+```
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/the-magic-readme">
+    <img src="https://img.shields.io/npm/v/the-magic-readme?style=flat-square&color=CB3837&logo=npm&logoColor=white&label=npm" alt="npm version">
+  </a>
+  <a href="https://www.npmjs.com/package/the-magic-readme">
+    <img src="https://img.shields.io/npm/dm/the-magic-readme?style=flat-square&color=CB3837&logo=npm&logoColor=white&label=downloads" alt="npm downloads">
+  </a>
+  <a href="https://magic-readme.noyonrahman.com">
+    <img src="https://img.shields.io/badge/docs-magic--readme.noyonrahman.com-2F81F7?style=flat-square&logo=readthedocs&logoColor=white" alt="Documentation">
+  </a>
+</p>
 
 ## GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noyonalways&theme=github_dark" alt="GitHub statistics">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noyonalways&theme=github_dark" alt="Languages by commit">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noyonalways&theme=github_dark" alt="GitHub overview">
 </p>
 
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/1F6FEB/noyonalways" alt="Contribution chart">
-</p>
+## Writing
+
+Notes on backend patterns, TypeScript, and serverless · [Blog](https://noyonrahman.com/blogs) · [Dev.to](https://dev.to/noyonalways) · [Medium](https://noyonalways.medium.com)
 
 ## Get in Touch
 
@@ -127,4 +147,4 @@ Open to new opportunities and collaborations.
 
 [hello@noyonrahman.com](mailto:hello@noyonrahman.com) · [noyonrahman.com](https://noyonrahman.com) · [LinkedIn](https://www.linkedin.com/in/noyonalways/) · [GitHub](https://github.com/noyonalways)
 
-<sub>Dhaka, Bangladesh · UTC+6 · Replies within two business days. Support the work via <a href="https://www.buymeacoffee.com/noyonalways">Buy Me a Coffee</a> or <a href="https://ko-fi.com/noyonalways">Ko-fi</a>.</sub>
+<sub>Dhaka, Bangladesh · UTC+6 · Replies within two business days.</sub>
