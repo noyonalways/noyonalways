@@ -103,38 +103,25 @@ More at [noyonrahman.com](https://noyonrahman.com).
 
 ## CodeVibe Themes
 
-A theme collection for Visual Studio Code, built for long sessions and readable syntax.
+A Visual Studio Code theme collection — Epic, Arctic Frost, and Neon Noir — for a vibrant coding experience.
 
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Marketplace-CodeVibe%20Themes-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="CodeVibe Themes on the VS Code Marketplace">
-  </a>
-</p>
+[Landing page on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes)
 
 ## The Magic README
 
-An open-source CLI that generates well-structured README files for repositories.
+A CLI tool to generate README files magically. Ten templates, interactive prompts, and sensible defaults — a GitHub-ready README in under a minute.
+
+[Landing page](https://magic-readme.noyonrahman.com) · [npm](https://www.npmjs.com/package/the-magic-readme) · [GitHub](https://github.com/noyonalways/the-magic-readme)
 
 ```bash
-npx the-magic-readme
+npm install -g the-magic-readme
 ```
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/the-magic-readme">
-    <img src="https://img.shields.io/npm/v/the-magic-readme?style=flat-square&color=CB3837&logo=npm&logoColor=white&label=npm" alt="npm version">
-  </a>
-  <a href="https://www.npmjs.com/package/the-magic-readme">
-    <img src="https://img.shields.io/npm/dm/the-magic-readme?style=flat-square&color=CB3837&logo=npm&logoColor=white&label=downloads" alt="npm downloads">
-  </a>
-  <a href="https://magic-readme.noyonrahman.com">
-    <img src="https://img.shields.io/badge/docs-magic--readme.noyonrahman.com-2F81F7?style=flat-square&logo=readthedocs&logoColor=white" alt="Documentation">
-  </a>
-</p>
 
 ## GitHub
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noyonalways&theme=github_dark" alt="GitHub overview">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noyonalways&theme=github_dark" alt="GitHub statistics">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noyonalways&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages">
 </p>
 
 ## Writing
