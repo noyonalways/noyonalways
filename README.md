@@ -46,11 +46,11 @@ I worked as a **Junior Full-Stack Developer at DeveloperLook**. Before that, I w
 ## Selected Work
 
 - **Staffic.io** — Multi-tenant platform to track time, monitor teams, and run daily operations · [Live](https://staffic.io)
-- **Ibadah** — Offline-ready PWA for tracking daily ibadah, with AI assistance · [Live](https://ibadah.noyonrahman.com) · [Source](https://github.com/noyonalways/ibadah)
-- **Luxe Maison** — Marketing site for a luxury home decor brand · [Live](https://luxe-maison.noyonrahman.com)
-- **R2 Explorer** — File explorer for Cloudflare R2 buckets, running on the edge · [Live](https://r2-explorer.noyonrahman.com)
-- **CodeVibe Themes** — A Visual Studio Code theme collection — Epic, Arctic Frost, and Neon Noir · [Landing page](https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes)
-- **The Magic README** — A CLI tool to generate README files magically, with ten templates and interactive prompts · [Landing page](https://magic-readme.noyonrahman.com) · [npm](https://www.npmjs.com/package/the-magic-readme) · [GitHub](https://github.com/noyonalways/the-magic-readme)
+- **Ibadah** — Offline-ready PWA for tracking daily ibadah, with AI assistance · [Live](https://ibadah.noyonrahman.com) · [Source](https://github.com/noyonalways/ibadah) 
+- **Luxe Maison** — Marketing site for a luxury home decor brand · [Live](https://luxe-maison.noyonrahman.com) · [Source](https://github.com/noyonalways/luxe-maison)
+- **R2 Explorer** — File explorer for Cloudflare R2 buckets, running on the edge · [Live](https://r2-explorer.noyonrahman.com) · [Source](https://github.com/noyonalways/r2-explorer)
+- **CodeVibe Themes** — A Visual Studio Code theme collection — Epic, Arctic Frost, and Neon Noir [Landing](https://codevibe.noyonrahman.com/) · [Install from Marketplace](https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes)
+- **The Magic README** — A CLI tool to generate README files magically, with ten templates and interactive prompts · [Landing](https://magic-readme.noyonrahman.com) · [npm](https://www.npmjs.com/package/the-magic-readme) · [Source](https://github.com/noyonalways/the-magic-readme)
 
 More at [noyonrahman.com](https://noyonrahman.com).
 
