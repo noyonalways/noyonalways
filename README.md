@@ -1,129 +1,130 @@
-### <samp>&gt; Hi there👋, I'm Noyon Rahman!
+<!--
+  GitHub Profile README — Noyon Rahman
+  Verified against github.com/noyonalways and noyonrahman.com (October 2026)
+-->
 
-<!-- <img width='100%' src='https://github-widgetbox.vercel.app/api/profile?username=noyonalways&data=followers,repositories,stars,commits' alt='banner-image'> -->
+<img width="100%" style="border-radius: 6px" src="https://cdn.noyonrahman.com/uploads/Covers/Noyon_Rahman_Linked_Cover_New_cleaned.jpg" alt="Noyon Rahman — Software Developer">
 
-<img style='margin-bottom: 15px; border-radius: 5px' width='100%' src='https://cdn.noyonrahman.com/uploads/Covers/Noyon_Rahman_Linked_Cover_New_cleaned.jpg' alt='cover-image'>
+<h1 align="center">Noyon Rahman</h1>
 
-<!-- <a href="https://gitroll.io/profile/u3oTwqSnz7mekcl3MZOiYF4GBb7r1" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/u3oTwqSnz7mekcl3MZOiYF4GBb7r1" alt="GitRoll Profile Badge"/>
-</a> -->
-
-<!-- <img align="right" alt="Coding animation GIF" style="border-radius: 5px" src="./assets/laptop.gif" width="320"/> -->
-
-### I'm a JavaScript Lover 😍 & Python Fan 🐍
-
-- 🔭 I’m currently working as a Web Developer.
-- 👨‍💻 My portfolio website [noyonrahman.com](https://noyonrahman.com)
-- ⚙️ I use daily: `.js`, `.ts`, `.py`, `.sql`, `.git`
-- 🥅 Goals: Learn `AWS`, `Docker`, `DevOps`, `Micro Service`, `React Native`, and `Android Apps`
-- ⚡ Fun fact: I love coding, watching movies, and traveling.
-- 💬 Ask me about JavaScript or any tech-related stuff.
-- 📫 How to reach me => [hello@noyonrahman.com](mailto:hello@noyonrahman.com)
-- 📌 Checkout my [Resume](https://drive.google.com/file/d/1S4oDpUJGjgftaStzTedI_H85tgGEtMMp/view)
-
-<br/>
-
-### About me
-
-<p align='left' style="font-size:16px;">I'm Noyon Rahman — a software developer based in Dhaka. My focus is backend development and API integration — designing scalable REST APIs, integrating third-party services like Stripe and Cloudinary, and ensuring data flows cleanly between the frontend and backend. I also contribute to UI features when the team needs an extra hand.
-
-My day-to-day is Node.js, Express, TypeScript, and MongoDB with Mongoose. I'm a believer in strict validation at the route boundary, consistent error envelopes, and schemas that work hard so the rest of the code doesn't have to.
+<p align="center">
+  <b>Software Developer</b> · Backend &amp; API Engineering · Dhaka, Bangladesh
 </p>
 
-<h3 align='center'>🤷‍♂️ Prayers (🤲) — Eat (🍕) — Code (🧑‍💻) — Sleep (🛌) — Repeat (🔁)</h3>
+<p align="center">
+  <a href="https://noyonrahman.com"><img src="https://img.shields.io/badge/Portfolio-noyonrahman.com-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/noyonalways/"><img src="https://img.shields.io/badge/LinkedIn-noyonalways-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hello@noyonrahman.com"><img src="https://img.shields.io/badge/Email-hello@noyonrahman.com-C14438?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://drive.google.com/file/d/143uDfWBSTWdEhdqgKXWWtd-_E1IwoB1v/view"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-4A4A4A?style=flat-square&logo=readdotcv&logoColor=white" alt="Résumé"></a>
+</p>
 
-<br />
+---
 
-### Language and tools
+## About
 
-<img width="100%" src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,react,redux,nextjs,express,graphql,supabase,tailwind,bootstrap,md,vite,mongodb,postgresql,prisma,vscode,cloudflare,workers,git,github,pnpm,npm,yarn,bash,powershell,windows,linux,docker,netlify,vercel,postman,figma,notion" alt="my-skills" >
+I'm a software developer based in Dhaka, focused on backend development and API integration — designing scalable REST APIs, integrating third-party services, and keeping data flowing cleanly between the frontend and the backend.
 
-<!-- <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,nodejs,python,express,vscode,react,nextjs,mongodb,tailwindcss,bootstrap,bash,linux,windows,docker,git,powershell,vercel,postgresql&theme=dracula" alt="my-skills" /> -->
+My day-to-day stack is **Node.js, Express, TypeScript, and MongoDB with Mongoose**. I believe in strict validation at the route boundary, consistent error envelopes, and schemas that work hard so the rest of the code doesn't have to.
 
-### My Themes & Packages
+I worked as a **Junior Full-Stack Developer at DeveloperLook**. Before that, I was a self-taught learner building projects and studying computer science.
 
-| **Name**                | **Description**                                                                  | **Link**                                                                                                             |
-| ----------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 🎨 **CodeVibe Themes**  | Bring your Visual Studio Code to life with vibrant and aesthetic themes.         | [Explore on VS Code Marketplace ➡️](https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes) |
-| ✨ **The Magic Readme** | A handy tool to generate professional README files for your GitHub repositories. | [Check it out on NPM ➡️](https://www.npmjs.com/package/the-magic-readme)                                             |
+## Experience
 
-### Connect with me
+**Junior Full-Stack Developer** — DeveloperLook · *Jan 2025 – Sep 2026*
 
-<div align="center">
-  <a target="_blank" href="https://facebook.com/noyonalways">
-    <img src="https://img.shields.io/badge/-noyonalways-1877F2?style=flat-square&labelColor=1877F2&logo=facebook&logoColor=white" alt="Facebook Badge">
-  </a>
-  <a target="_blank" href="https://instagram.com/noyonalways">
-    <img src="https://img.shields.io/badge/-noyonalways-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge">
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/noyonalways/">
-    <img src="https://img.shields.io/badge/-noyonalways-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a target="_blank" href="mailto:hello@noyonrahman.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-  <a target="_blank" href="https://www.behance.net/noyonalways">
-    <img src="https://img.shields.io/badge/-noyonalways-gray?style=flat-square&logo=Behance&logoColor=white" alt="YouTube Badge">
-  </a>
-  <a target="_blank" href="https://dev.to/noyonalways">
-    <img src="https://img.shields.io/badge/-noyonalways-black?style=flat-square&logo=dev.to&logoColor=white" alt="YouTube Badge">
-  </a>
-  <a target="_blank" href="https://youtube.com/@noyonalways">
-    <img src="https://img.shields.io/badge/-deskofnoyon-CD201F?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube Badge">
-  </a>
-</div>
+- Designed and maintained scalable REST APIs in Node.js, Express, and TypeScript.
+- Modelled domain data in MongoDB and Mongoose with strict validation at the route boundary.
+- Integrated payments, file storage, email, and authentication end to end, including idempotent webhook handling.
+- Contributed to the Next.js and React frontend, keeping types in lock-step with the API schema.
 
-<!-- <div align="center">
-    <a href="https://linkedin.com/in/noyonalways" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://twitter.com/noyonalways" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.facebook.com/noyonalways" target="_blank">
-        <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://instagram.com/noyonalways" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.youtube.com/c/codernoyon" target="_blank">
-        <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://dev.to/noyonalways" target="_blank">
-        <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://github.com/noyonalways" target="_blank">
-        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://codepen.com/noyonalways" target="_blank">
-        <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://stackoverflow.com/users/17615131/noyonalways" target="_blank">
-        <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://dribbble.com/noyonalways" target="_blank">
-        <img src="https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.behance.net/noyonalways" target="_blank">
-        <img src="https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white" alt="behance" style="margin-bottom: 5px;" />
-    </a>
-</div> -->
+**Self-taught Learner** — Independent study · *Before 2025*
 
-<br/>
+- Started with HTML, CSS, and JavaScript, then worked upward to React, Node.js, Express, and MongoDB.
+- Learned by building small apps and dashboards, rebuilding earlier work in the next stack up.
+- Studied Computer Science &amp; Engineering at National University of Bangladesh alongside the practical work.
 
-### Support Me
+## Selected Work
 
-<div align="center">
-    <a href="https://www.buymeacoffee.com/noyonalways" target="_blank" style="display: inline-block;">
-        <img
-            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-            align="center"
-        />
-    </a>
-    <a href="https://ko-fi.com/noyonalways" target="_blank" style="display: inline-block;">
-        <img
-            src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-            align="center"
-        />
-    </a>
-</div>
+| Project | Description | Stack | Links |
+| --- | --- | --- | --- |
+| **Staffic.io** | Multi-tenant platform to track time, monitor teams, and run daily operations. | Node.js · Express · MongoDB · Next.js | [Live](https://staffic.io) |
+| **Ibadah** | Offline-ready PWA for tracking daily ibadah, with AI assistance. | Next.js · Express · MongoDB | [Live](https://ibadah.noyonrahman.com) · [Source](https://github.com/noyonalways/ibadah) |
+| **Luxe Maison** | Marketing site for a luxury home decor brand. | Next.js · TypeScript · Tailwind CSS | [Live](https://luxe-maison.noyonrahman.com) |
+| **The Magic README** | Open-source CLI that generates README files for repositories. | TypeScript · Node.js | [npm](https://www.npmjs.com/package/the-magic-readme) |
+| **R2 Explorer** | File explorer for Cloudflare R2 buckets, running on the edge. | TypeScript · Cloudflare Workers | [Live](https://r2-explorer.noyonrahman.com) |
+
+More at [noyonrahman.com](https://noyonrahman.com).
+
+## Toolkit
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4438?style=flat-square&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK%20Query-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+
+## Open Source & Writing
+
+- **The Magic README** — CLI for generating README files · [npm](https://www.npmjs.com/package/the-magic-readme)
+- **CodeVibe Themes** — VS Code theme collection · [Marketplace](https://marketplace.visualstudio.com/items?itemName=noyonalways.codevibe-themes)
+- Writing on backend patterns, TypeScript, and serverless · [Blog](https://noyonrahman.com/blogs) · [Dev.to](https://dev.to/noyonalways) · [Medium](https://noyonalways.medium.com)
+
+## GitHub
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noyonalways&theme=github_dark" alt="GitHub statistics">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noyonalways&theme=github_dark" alt="Languages by commit">
+</p>
+
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/1F6FEB/noyonalways" alt="Contribution chart">
+</p>
+
+## Get in Touch
+
+Open to new opportunities and collaborations.
+
+[hello@noyonrahman.com](mailto:hello@noyonrahman.com) · [noyonrahman.com](https://noyonrahman.com) · [LinkedIn](https://www.linkedin.com/in/noyonalways/) · [GitHub](https://github.com/noyonalways)
+
+<sub>Dhaka, Bangladesh · UTC+6 · Replies within two business days. Support the work via <a href="https://www.buymeacoffee.com/noyonalways">Buy Me a Coffee</a> or <a href="https://ko-fi.com/noyonalways">Ko-fi</a>.</sub>
