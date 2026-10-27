@@ -106,7 +106,7 @@ More at [noyonrahman.com](https://noyonrahman.com).
 ## GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noyonalways&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noyonalways&theme=github_dark" alt="Top languages by repository">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noyonalways&theme=github_dark" alt="GitHub statistics">
 </p>
 
