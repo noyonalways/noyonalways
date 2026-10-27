@@ -110,10 +110,6 @@ More at [noyonrahman.com](https://noyonrahman.com).
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noyonalways&theme=github_dark" alt="GitHub statistics">
 </p>
 
-## Writing
-
-Notes on backend patterns, TypeScript, and serverless · [Blog](https://noyonrahman.com/blogs) · [Dev.to](https://dev.to/noyonalways) · [Medium](https://noyonalways.medium.com)
-
 ## Get in Touch
 
 Open to new opportunities and collaborations.
